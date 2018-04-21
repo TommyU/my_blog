@@ -1,11 +1,7 @@
 Title: github 博客搭建过程
 Date: 2015-12-01 10:20
-Category: 
-Tags: tools
 Slug:github-blog-by-pelican
-Authors: Tommy.Yu
-Summary: blogs
-# github 博客搭建过程(pelican)
+
 
 ## 准备工作
 

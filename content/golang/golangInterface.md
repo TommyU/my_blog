@@ -1,11 +1,8 @@
 Title: interface
 Date: 2015-12-03 10:20
-Category: golang
 Tags: golang
-Slug: golang-interface
-Authors: Tommy.Yu
-Summary: golang interface
-#interface
+Slug: golang-interfaces
+
 
 ```
 // An Expr is an arithmetic expression.

@@ -1,10 +1,7 @@
 Title: orm based on pymongo
-Date: 2015-12-03 10:20
-Category: python
-Tags: python
+Tags: orm
 Slug:orm-based-on-pymongo
-Authors: Tommy.Yu
-Summary: pelican plugin
+
 # orm based on pymongo
 
 ```python

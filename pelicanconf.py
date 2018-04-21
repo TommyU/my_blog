@@ -12,6 +12,8 @@ TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = u'zh'
 
+DEFAULT_DATE = 'fs'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -38,3 +40,5 @@ JINJA_ENVIRONMENT = {
 }
 
 USE_FOLDER_AS_CATEGORY = True
+DEFAULT_CATEGORY='python'
+SUMMARY_MAX_LENGTH = 0
